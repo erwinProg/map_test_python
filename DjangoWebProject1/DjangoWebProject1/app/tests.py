@@ -28,7 +28,8 @@ class ViewTest(TestCase):
         response = self.client.get('/contact')
         self.assertContains(response, 'Contact', 3, 200)
 
-    def test_about(self):
+    def test_map(self):
         """Tests the about page."""
-        response = self.client.get('/about')
-        self.assertContains(response, 'About', 3, 200)
+        response = self.client.get('/mapA')
+        self.assertContains(response, 'mapA', 3, 200)
+

@@ -1,11 +1,11 @@
+urlresolvers
 checks
-exceptions
 validators
 wsgi
 handlers
 serializers
 cache
-urlresolvers
+exceptions
 signing
 servers
 signals

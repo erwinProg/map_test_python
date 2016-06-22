@@ -1,0 +1,9 @@
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.WebRole.dll
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\bin\AzureSetup.cfg
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\bin\wfastcgi.py
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\obj\Release\deployment-updated-pyvenv.cfg
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\ptvs_virtualenv_proxy.py
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\obj\Release\web.config
+C:\Users\Erwin\Documents\GitHub\map_test_python\DjangoWebProject1\DjangoWebProject1\obj\Release\web.debug.config

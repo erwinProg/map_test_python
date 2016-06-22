@@ -1,0 +1,35 @@
+﻿{% extends "app/layout.html" %}
+{% load static %}
+{% block content %}
+<head>
+<script src="http://maps.googleapis.com/maps/api/js"></script>
+<script src="{% static 'app/scripts/map_page.js' %}"></script>
+    <style>
+label { float: left; margin: 0px 100px 0 0;}
+        </style>
+
+
+</head>
+
+<body>
+<div id="googleMap" style="width:1000px;height:450px;"></div>
+
+    <label for="Start">
+  <p>Latitude Starting Point:</p>
+    <input type = "number" input id="latS">
+   <p>Longtitude Starting Point:</p>
+    <input type = "number" input id="lonS">
+    </label>
+
+  <label for="End">
+  <p>Latitude ending Point:</p>
+    <input type = "number" input id="latE">
+   <p>Longtitude ending Point:</p>
+    <input type = "number"  id="lonE">
+ </label>
+
+    <div align ="center">
+  <button type="button" onclick="displayForm()">Submit</button>
+        </div> 
+</body>
+{% endblock %}

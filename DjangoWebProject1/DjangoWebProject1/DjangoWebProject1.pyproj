@@ -54,6 +54,10 @@
     <Folder Include="DjangoWebProject1\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="app\static\app\scripts\map_page.js" />
+    <Content Include="app\templates\app\mapA.html">
+      <Publish>True</Publish>
+    </Content>
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />
     <Content Include="app\static\app\content\bootstrap.css" />

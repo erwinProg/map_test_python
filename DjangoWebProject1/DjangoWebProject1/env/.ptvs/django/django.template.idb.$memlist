@@ -9,7 +9,7 @@ engines
 defaulttags
 response
 Library
-loaders
+backends
 resolve_variable
 Variable
 engine
@@ -25,7 +25,7 @@ Context
 defaultfilters
 Node
 context_processors
-backends
+loaders
 loader_tags
 context
 StringOrigin

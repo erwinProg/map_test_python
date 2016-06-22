@@ -32,15 +32,16 @@ def contact(request):
         }
     )
 
-def about(request):
-    """Renders the about page."""
+def mapA(request):
+    """Renders the map page."""
     assert isinstance(request, HttpRequest)
     return render(
         request,
-        'app/about.html',
+        'app/mapA.html',
         {
-            'title':'About',
-            'message':'Your application description page.',
+            'title':'Map',
+            'message':'Testing Map.',
             'year':datetime.now().year,
         }
     )
+
